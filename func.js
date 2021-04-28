@@ -1,4 +1,4 @@
-function double(num) {
+function double(x) {
   return x * 2;
 }
 
